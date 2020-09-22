@@ -9,8 +9,8 @@ It's a flutter application that help users to find the best products .
 <!-- record_2 -->
 ![original Design](https://github.com/ahmedeidd/users-shop-app/blob/master/screenshots/record_2.gif "Design")
 
-<!-- record_3.mp4 -->
-![original Design]https://github.com/ahmedeidd/users-shop-app/blob/master/screenshots/record_3.gif "Design")
+<!-- record_3 -->
+![original Design](https://github.com/ahmedeidd/users-shop-app/blob/master/screenshots/record_3.gif "Design")
 
 
 ## Screenshots
